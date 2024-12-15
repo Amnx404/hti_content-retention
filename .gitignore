@@ -1,0 +1,5 @@
+*.csv
+.codeium/*
+.lightning_studio/*
+*.json
+*.zip
